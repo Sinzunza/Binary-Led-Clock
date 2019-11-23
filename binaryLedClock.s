@@ -2,6 +2,8 @@
 .equ HIGH, 1
 .equ INPUT, 0
 .equ OUTPUT, 1
+
+//gpio pin numbers
 .equ secondOnes, 17
 .equ secondTwos, 27
 .equ secondFours, 22
